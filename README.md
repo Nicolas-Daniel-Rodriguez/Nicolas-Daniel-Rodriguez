@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nicolás Daniel Rodríguez</h1>
 <h3 align="center">A passionate fullstack web developer from Argentina</h3>
 
-- 🔭 I’m currently working on [Portfolio Web](https://github.com/Nicolas-Daniel-Rodriguez/Proyecto-integrador-ArgentinaPrograma)
+- 🔭 I’m currently working on [Portfolio Web](https://nicolas-daniel-rodriguez.github.io/Portfolio/)
 
-- 🌱 I’m currently learning **FullStack Web Developer Jr - Argentina Programa**
+- 🌱 I’m **FullStack Web Developer Jr**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nicolas-Daniel-Rodriguez](https://github.com/Nicolas-Daniel-Rodriguez)
 
