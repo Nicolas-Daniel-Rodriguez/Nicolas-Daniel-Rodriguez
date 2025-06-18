@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nicolás Daniel Rodríguez</h1>
 <h3 align="center">A passionate fullstack web developer from Argentina</h3>
 
-- 🔭 I’m currently working on [Portfolio Web](https://nicolas-daniel-rodriguez.github.io/Portfolio/)
+- 🔭 I’m currently working on [Portfolio Web](https://nicolasdanielrodriguez.netlify.app/)
 
 - 🌱 I’m **FullStack Web Developer Jr**
 
